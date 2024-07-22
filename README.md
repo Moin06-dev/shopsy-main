@@ -1,6 +1,7 @@
-# 🚗 Car Rental Application
 
-Welcome to the Car Rental Application! This project is built with React, Vite, and TailwindCSS to provide a seamless and engaging user experience for renting and managing cars.
+# 🛒 Shopy - Your Online Store
+
+Welcome to Shopy! This project is built with React, Vite, and TailwindCSS to provide a seamless and engaging user experience for shopping online, just like Amazon.
 
 ## 📜 Table of Contents
 
@@ -13,11 +14,12 @@ Welcome to the Car Rental Application! This project is built with React, Vite, a
 
 ## ✨ Features
 
-- 🚙 **Explore Cars:** Browse and discover various car models available for rent.
-- 📅 **Book Rentals:** Easy booking process for renting cars.
-- 🔧 **Manage Rentals:** Track and manage your car rentals.
-- 🛠️ **Admin Dashboard:** Manage bookings, view analytics, and handle customer inquiries.
+- 🛍️ **Browse Products:** Discover a wide range of products across various categories.
+- 🛒 **Add to Cart:** Easily add products to your cart for a smooth shopping experience.
+- 🔄 **Order Management:** Track and manage your orders effortlessly.
+- 💳 **Secure Checkout:** Experience a safe and secure checkout process.
 - 📱 **Responsive Design:** Optimized for both desktop and mobile devices.
+- 🔧 **Admin Dashboard:** Manage products, view analytics, and handle customer inquiries.
 
 ## 🛠️ Installation
 
@@ -102,11 +104,11 @@ The application will be available at `http://localhost:5173` (or another port if
 ├── src
 │   ├── components
 │   │   ├── Navbar.jsx
-│   │   ├── CarList.jsx
+│   │   ├── ProductList.jsx
 │   │   └── ...
 │   ├── pages
 │   │   ├── Home.jsx
-│   │   ├── Booking.jsx
+│   │   ├── Cart.jsx
 │   │   └── ...
 │   ├── App.jsx
 │   ├── index.jsx
